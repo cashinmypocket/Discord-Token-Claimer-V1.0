@@ -1,4 +1,4 @@
-# Discord token Claimer V1.0
+# Discord Token Claimer V1.0
 
 In account.txt text document you will enter discord accounts as email:password
 ↑-1 account for each row-↑
